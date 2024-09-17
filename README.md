@@ -1,6 +1,6 @@
 ## Greetings,
 
-I'm Anders Buchmann, a 19-year-old computer science enthusiast hailing from Denmark. My journey into the realm of coding began at the age of 12, when I delved into the intricate world of plugin and mod development for the renowned game Minecraft.
+I'm Anders Buchmann, a 20-year-old computer science enthusiast hailing from Denmark. My journey into the realm of coding began at the age of 12, when I delved into the intricate world of plugin and mod development for the renowned game Minecraft.
 
 My coding prowess encompasses a spectrum of languages, each serving a unique purpose in my technical repertoire. While I may have varying degrees of fluency in some, my proficiency remains steadfast. Here's a glimpse into the languages I command:
 
